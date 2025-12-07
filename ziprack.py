@@ -1,6 +1,6 @@
 # ZIPRACK
 # Version: 1.01
-# Created: albinshibyy | github
+# Created: zldrelf | github
 # bruteforcing python script
 # for educational purpose only
 
