@@ -5,7 +5,7 @@ For educational purpose only***
 
 ***INSTALLATION & USAGE***
 ```
-git clone https://github.com/albinshibyy/ziprack
+git clone https://github.com/zldrelf/ziprack
 go to the directory with cd ziprack
 python3 ziprack.py
 add the location of zip file and wordlist
